@@ -1,5 +1,5 @@
 Resolusi
 - konsisten membuat konten
 - membuat website portfolio
-- latihan coding
 - Program website for UMKM
+- Membuat visualisai data
